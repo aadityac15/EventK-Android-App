@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">EventK</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="dummy">Dummy Page</string>
+
+    <string name="facebook_app_id">2150244335192922</string>
+    <string name="fb_login_protocol_scheme">fb2150244335192922</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">search</string>
+    <string name="Events">Events</string>
+    <string name="Maps">Maps</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="list">list</string>
+    <string name="action_sign_in_short" />
+    <string name="signin">sign in</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">Events</string>
+  <!--  <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>-->
+    <string name="fcm_message">FCM Message</string>
+    <string name="eventlist">Event List</string>
+    <string name="profile">Profile</string>
+    <string name="msg_subscribed">Subscribed to Events</string>
+    <string name="msg_subscribe_failed">Subscription Failed</string>
+    <string name="signup">Sign Up</string>
+    <string name="showevents">Show Events</string>
+
+</resources>
